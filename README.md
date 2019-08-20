@@ -13,3 +13,8 @@ This project is a simple worksheet to introduce basic Python and PyGame Zero gam
 
 It's based upon the Pygame Zero Invaders article wrote by Mark Vanstone (https://twitter.com/mindexplorers) that was published in issue 74 of the MagPi Magazine:
 https://www.raspberrypi.org/magpi/issues/74/
+
+
+Whilst this is Windows worksheet anyone with a Raspberry Pi should be able to complete it fine using Thonny instead of Visual Studio Code.
+
+Linux users can install Visual Studio Code and complete the worksheet as well....Look I know it's by Microsoft but it's actually not that bad to use. If your not ready for that then use what ever text editor takes your fancy :) 
